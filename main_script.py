@@ -1,8 +1,8 @@
 ##################################################################
 #This is the main script for this program. Running this
-#assumes that you have run the get_first script already.
+#assumes that you have run the update_table script already.
 #
-#If you have not run the get_first script this will not work
+#If you have not run the update_table script this will not work
 #as it is dependent on that script.
 ##################################################################
 
