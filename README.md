@@ -17,3 +17,5 @@ Dependencies:
 --- You must run the update_table.py script before running the main script ---
 
 Tested with Ubiquiti EdgeRouter X, left command variable empty to place your own router's command.
+
+Idea: have script run as cron job
